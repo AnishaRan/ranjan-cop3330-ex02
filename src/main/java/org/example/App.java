@@ -14,7 +14,6 @@ public class App
 
         int charNum = inputString.length();
 
-
         System.out.printf(inputString + " has %d characters.", charNum);
 
     }
